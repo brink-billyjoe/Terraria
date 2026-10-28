@@ -215,4 +215,4 @@ Terraria is offered as a full free version with all features and updates include
 Download Terraria now and immerse yourself in an unforgettable adventure!
 
 ---
-**Last updated:** 2026-10-28 16:55:07 UTC
+**Last updated:** 2026-10-28 21:27:52 UTC
